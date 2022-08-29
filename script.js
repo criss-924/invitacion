@@ -157,4 +157,3 @@ setInterval(function name(params) {
     }
     //console.log(heartArr);
 },100)
-
