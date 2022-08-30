@@ -201,6 +201,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* SOBRE ========================== */
+
 #card-toggle {
   display: none;
 }
@@ -263,7 +264,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .face {
-  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
