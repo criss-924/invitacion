@@ -432,16 +432,3 @@ h1, h2, h3, h4, h5, h6,
   -ms-transform: rotateY(15deg);
   transform: rotateY(15deg);
 }
-
-
-
-button {  
-  color: var(--color);
-  transition: 0.25s;
-  
-  &:hover,
-  &:focus { 
-    border-color: var(--hover);
-    color: #fff;
-  }
-}
