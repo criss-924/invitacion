@@ -200,33 +200,7 @@ h1, h2, h3, h4, h5, h6,
 	  color: #565b70;
 }
 
-/* SOBRE */
-
-body:before {
-  content: "";
-  position: fixed;
-  left: -3px;
-  right: 0;
-  top: -3px;
-  bottom: 0;
-  z-index: -1;
-  display: block;
-  width: 102vw;
-  height: 102vh;
-  -webkit-filter: blur(4px);
-  -moz-filter: blur(4px);
-  -o-filter: blur(4px);
-  -ms-filter: blur(4px);
-  filter: blur(4px);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-}
-
-p,h1,h2,h3,h4,h5,h6 {
-  font-family: "Poiret One";
-}
-
+/* SOBRE ========================== */
 #card-toggle {
   display: none;
 }
@@ -370,7 +344,7 @@ p,h1,h2,h3,h4,h5,h6 {
 }
 
 .time p, .rsvp p {
-	font-size: 30px;
+	font-size: 25px;
 }
 
 .inner-bottom {
