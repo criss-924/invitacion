@@ -97,10 +97,12 @@ h1, h2, h3, h4, h5, h6,
 
 .primary-color {
   margin-top: -2em;
+	  font-size: 2.5rem;
+	color: #fff;
 }
 
 .pie p {
-  font-size: 5rem;
+  font-size: 2.5rem;
 }
 
 /* ICONO ADN */
@@ -201,16 +203,22 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* SOBRE ========================== */
-
-.main {
-	margin: 4em;
+.mainsobre {
+	margin-top: 20em;
+	margin-bottom: 15em;
+	align-item: center;
+	justify-content: center;
+	padding: 3em;
 }
+
 
 #card-toggle {
   display: none;
 }
 
 .card {
+	margin-top: 30em;
+	margin-bottom: 10em;
   display: block;
   width: 450px;
   height: 315px;
@@ -268,7 +276,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .face {
-position: absolute;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -342,14 +350,17 @@ position: absolute;
 .inner-top .contents h2 {
   margin-top: 0;
   font-family: "Satisfy";
+	color: rgb(0, 3, 32);
 }
 
 .contents p {
 	font-size: 50px;
+		color: rgb(0, 3, 32);
 }
 
 .time p, .rsvp p {
 	font-size: 25px;
+		color: rgb(0, 3, 32);
 }
 
 .inner-bottom {
@@ -421,4 +432,3 @@ position: absolute;
   -ms-transform: rotateY(15deg);
   transform: rotateY(15deg);
 }
-
