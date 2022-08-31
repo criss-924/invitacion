@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6,
 		color: rgb(0, 3, 32);
 	text-align: center;
 	margin-top: -1px;
-	margin-left: -1px;
+	margin-left: -3px;
 }
 
 .time p, .rsvp p {
