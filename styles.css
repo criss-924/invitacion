@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6,
 
 /* SOBRE ========================== */
 .mainsobre {
-	margin-top: 20em;
+	margin-top: 15em;
 	margin-bottom: 10em;
 	align-item: center;
 	justify-content: center;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .card {
-	margin-top: 30em;
+	margin-top: 20em;
 	margin-bottom: 5em;
   display: block;
   width: 390px;
