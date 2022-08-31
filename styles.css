@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6,
         .item{
             width: 4px;
             height: 100px;
-            background: rgb(104, 117, 233);
+            background: rgb(156, 202, 255);
             margin: 0px 7px;
             position: relative;
             animation: anim 2s linear infinite;
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6,
             width: 10px;
             height: 10px;
             border-radius: 50%;
-            background: darkblue;
+            background: rgb(156, 202, 255);
         }
         .item::after{
             top: calc(100% - 5px);
